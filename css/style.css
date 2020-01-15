@@ -1,0 +1,91 @@
+dl dd a{
+    padding-right: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+#panel{
+  background-image: url(../img/1.jpg);
+  background-size: cover;
+  height: 500px;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.h1{
+  text-align: center;
+  color: black;
+  position: relative;
+  top: 150px;
+}
+
+p{
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 150px;
+}
+
+h4{
+  text-align: center;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.phone{
+  margin-top: 200px;
+  margin-left: 350px;
+  width: 512px;
+  height: 512px;
+  text-align: center;
+}
+
+#ico{
+  margin-top: 100px;
+  margin-right: 100px;
+  padding-bottom: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+.fads{
+  margin-top: 20px;
+  margin-bottom: 80px;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.ipad{
+  margin-top: -50px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  height:300px;
+  width: 350px;
+}
+
+.porto{
+  margin-top: 40px;
+  margin-bottom: 100px;
+  text-align: center;
+  color: white;
+}
+
+.isiporto{
+  top: -80px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  position: relative;
+}
+
+.btn{
+  top: -80px;
+  left: 800px;
+  position: relative;
+  text-align:center;
+  color: white;
+}
